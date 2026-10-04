@@ -1,7 +1,0 @@
-transformers
-torch
-nltk
-fastapi
-uvicorn
-pandas
-scikit-learn
